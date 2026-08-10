@@ -1,0 +1,17 @@
+{
+  "id": "br_portuguese_ui",
+  "name": "Português Brasileiro (interface)",
+  "version": "0.1.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "game_version": ">=0.0.0-dev <1.0.0",
+  "category": "LANGUAGE",
+  "priority": 99,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "incompatible": [],
+  "experimental": false,
+  "description": "O idioma portguês se refere às configurações e menus do próprio aplicativo. O texto do jogo vem da sua ROM e permanece intacto, portanto, um cartucho em inglês continua sendo uma aventura em inglês com menus em português. Para traduzir o texto do jogo, baixe o mod de tradução do jogo separado."
+}
