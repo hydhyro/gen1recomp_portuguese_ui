@@ -1,6 +1,7 @@
 {
   "id": "br_portuguese_ui",
   "name": "Português Brasileiro (interface)",
+  "github": "hydhyro/gen1recomp_portuguese_ui",
   "version": "0.1.0",
   "api": 2,
   "entry": "main.lua",
