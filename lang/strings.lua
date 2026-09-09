@@ -15,8 +15,6 @@ return {
 ["Trade"] = "Trocar",
 ["Watch"] = "Assistir",
 ["Play"] = "Jogar",
-[] = "",
-
 ["Update all"] = "Atualizar todos",
 ["Update %d items?"] = "Atualizar %d itens?",
 ["and %d more"] = "e %d mais",
