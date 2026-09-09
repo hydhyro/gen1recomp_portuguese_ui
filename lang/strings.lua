@@ -4,6 +4,24 @@
 -- an entry empty. Keep any %s / %d directives.
 
 return {
+["Display name"] = "Nome de exibição",
+["Connect"] = "Conectar",
+["Disconnect"] = "Desconectar",
+["%d players online, %d open lobbies"] = "%d jogadores online, %d lobbies abertos",
+["Connect to see who is playing."] = "Conecte para ver quem está jogando.",
+["Find an open lobby or host your own battle."] = "Encontre um lobby aberto ou hospede sua própria batalha.",
+["Open matches and running tournaments to spectate."] = "Abra partidas e torneios para entrar como espectador.",
+["Swap POKeMON with another save or another trainer."] = "Troque POKéMON com outro save or outro jogador.",
+["Trade"] = "Trocar",
+["Watch"] = "Assistir",
+["Play"] = "Jogar",
+[] = "",
+
+["Update all"] = "Atualizar todos",
+["Update %d items?"] = "Atualizar %d itens?",
+["and %d more"] = "e %d mais",
+["Most downloaded"] = "Mais baixados",
+["Trending"] = "Bombando",
 ["LANGUAGE"] = "IDIOMA",
 ["Troubleshooting"] = "Solução de problemas",
 ["All mods are disabled and their toggles are locked until safe mode is turned off."] = "Todos os mods estão desativados e suas opções estão bloqueadas até que o modo de segurança seja desativado.",
